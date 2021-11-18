@@ -1,3 +1,5 @@
+## GetX Practice
+
 - [GetX 개요](#getx---)
 - [GetX 사용](#getx---)
 - [Navigation](#navigation)
