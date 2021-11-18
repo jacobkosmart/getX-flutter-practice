@@ -1,27 +1,5 @@
 ## GetX Practice
 
-- [GetX 개요](#getx---)
-- [GetX 사용](#getx---)
-- [Navigation](#navigation)
-  - [1.페이지 이동하기](#1--------)
-  - [2.페이지 뒤로가기](#2--------)
-  - [3.홈페이지로 바로가는 버튼](#3-------------)
-  - [4.모든 페이지 스택 삭제하기](#4--------------)
-  - [5.리턴값 받아오기](#5--------)
-  - [6.argument 값 보내기](#6argument------)
-  - [7.Transition](#7transition)
-  - [8.Named Route](#8named-route)
-  - [9.Snack bar 기능](#9snack-bar---)
-  - [10.Dialog 기능](#10dialog---)
-  - [11.Bottom Sheet](#11bottom-sheet)
-- [State Management](#state-management)
-  - [1.on Update](#1on-update)
-  - [2.Reactive](#2reactive)
-  - [Obx 을 사용](#obx-----)
-  - [class 의 instance 를 obx 로 만들기](#class---instance---obx------)
-  - [Observable Worker 기능](#observable-worker---)
-- [Reference](#reference)
-
 > [GetX official page](https://pub.dev/packages/get)
 
 ## GetX 개요
